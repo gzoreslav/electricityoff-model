@@ -16,11 +16,8 @@
     "lib": ["esnext", "dom"],
     "skipLibCheck": true,
     "resolveJsonModule": true,
-    "baseUrl": ".",
-    "paths": {
-      "app/*": ["./app/*"]
-    }
+    "baseUrl": "."
   },
-  "include": ["index.ts"],
+  "include": ["models/", "index.js"],
   "exclude": ["node_modules"]
 }

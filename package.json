@@ -1,6 +1,6 @@
 {
   "name": "electricityoff-model",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Interfaces for ElectricityOff apps",
   "main": "index.js",
   "types": "index.d.ts",
