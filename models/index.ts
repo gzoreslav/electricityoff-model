@@ -1,5 +1,7 @@
 import { OffTypeEnum } from './offTypeEnum';
+import { AddressInterface } from './addressInterface';
 
-export default {
-    OffTypeEnum
+export {
+    OffTypeEnum,
+    AddressInterface
 }
