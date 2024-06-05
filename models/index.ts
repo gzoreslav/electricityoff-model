@@ -1,4 +1,4 @@
-import { OffTypeEnum } from './OffTypeEnum';
+import { OffTypeEnum } from './offTypeEnum';
 
 export default {
     OffTypeEnum
