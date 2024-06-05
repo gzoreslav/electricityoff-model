@@ -21,6 +21,6 @@
       "app/*": ["./app/*"]
     }
   },
-  "include": ["index.js", "index.d.ts"],
+  "include": ["index.ts"],
   "exclude": ["node_modules"]
 }
