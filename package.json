@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gzoreslav/electricityoff-model/issues"
   },
-  "homepage": "https://github.com/gzoreslav/electricityoff-model#readme"
+  "homepage": "https://github.com/gzoreslav/electricityoff-model#readme",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
 }
