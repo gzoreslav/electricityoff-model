@@ -1,3 +1,7 @@
-import * as models from "./models";
+import { OffTypeEnum } from "./models/offTypeEnum";
+import { AddressInterface } from "./models/addressInterface";
 
-export { models };
+export {
+    OffTypeEnum,
+    AddressInterface
+};
